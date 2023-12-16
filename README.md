@@ -1,4 +1,4 @@
-This is pricing card stlyling using HTML and CSS. This pricing card was desined based on the instruction given by frontend mentor(https://www.frontendmentor.io/).
+This is Frontend mentor challenge-1.This is pricing card stlyling using HTML and CSS. This pricing card was desined based on the instruction given by frontend mentor(https://www.frontendmentor.io/).
 This project require basic skills of HTML and CSS. It involes in lots of styling.This card is desktop preview.The styling is based on following style guides : 
 
 ## Layout
